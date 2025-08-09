@@ -11,4 +11,7 @@ Bot, GitHub hesabınıza giriş yapar ve takipçi listenizi çekerek ekrana yazd
 ## Kullanılan Teknolojiler
 - **Selenium**
 - **Google Chrome** & **ChromeDriver**
-### Not: kodun başında import ettiğim userInfo dosyasında kullanıcı adı ve parola yazmaktadır kullanan kişiye göre bilgiler değiştirilebilir.
+  
+## Notlar
+- Kodun başında import ettiğim userInfo dosyasında kullanıcı adı ve parola yazmaktadır kullanan kişiye göre bilgiler değiştirilebilir.
+- Şu an kod yalnızca **ilk sayfadaki** takipçileri çeker. Daha fazla takipçiniz varsa tüm sayfaları kontrol edecek şekilde **pagination** desteği eklenebilir.
